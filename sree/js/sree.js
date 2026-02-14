@@ -49,7 +49,7 @@ const memories = [
 
 // Final message shown at the end of the walkthrough
 const finalMessage = {
-    message: "Thank you for being my everything!",
+    message: "Will you be my Valentine?",
     submessage: "Click anywhere on the map to revisit our memories."
 };
 
